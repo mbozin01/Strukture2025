@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F77538A1-4B6D-451E-AA39-CC7F7CA20CEF}|Project1\\Project1.vcxproj|C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\Project1\\Project1\\drugi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F77538A1-4B6D-451E-AA39-CC7F7CA20CEF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\drugi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drugi.c",
+              "DocumentMoniker": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\Project1\\Project1\\drugi.c",
+              "RelativeDocumentMoniker": "Project1\\drugi.c",
+              "ToolTip": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\Project1\\Project1\\drugi.c",
+              "RelativeToolTip": "Project1\\drugi.c",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAAEABAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-21T09:53:55.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

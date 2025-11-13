@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B7AF0C-02C9-4BA4-A6D4-70DBA0213C49}|zad4\\zad4.vcxproj|C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11B7AF0C-02C9-4BA4-A6D4-70DBA0213C49}|zad4\\zad4.vcxproj|solutionrelative:zad4\\zad4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B7AF0C-02C9-4BA4-A6D4-70DBA0213C49}|zad4\\zad4.vcxproj|C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\Polinomi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11B7AF0C-02C9-4BA4-A6D4-70DBA0213C49}|zad4\\zad4.vcxproj|solutionrelative:zad4\\Polinomi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polinomi.txt",
+              "DocumentMoniker": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\Polinomi.txt",
+              "RelativeDocumentMoniker": "zad4\\Polinomi.txt",
+              "ToolTip": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\Polinomi.txt",
+              "RelativeToolTip": "zad4\\Polinomi.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-30T16:44:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad4.c",
+              "DocumentMoniker": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\zad4.c",
+              "RelativeDocumentMoniker": "zad4\\zad4.c",
+              "ToolTip": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad4\\zad4\\zad4.c",
+              "RelativeToolTip": "zad4\\zad4.c",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAAA4BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T16:19:26.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

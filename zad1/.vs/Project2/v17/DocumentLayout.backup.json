@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121D77EF-1386-41CF-8007-B11351FD6A6C}|Project2\\Project2.vcxproj|C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\prvi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{121D77EF-1386-41CF-8007-B11351FD6A6C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\prvi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D77EF-1386-41CF-8007-B11351FD6A6C}|Project2\\Project2.vcxproj|C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\strudents.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{121D77EF-1386-41CF-8007-B11351FD6A6C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\strudents.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strudents.txt",
+              "DocumentMoniker": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\strudents.txt",
+              "RelativeDocumentMoniker": "Project2\\strudents.txt",
+              "ToolTip": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\strudents.txt",
+              "RelativeToolTip": "Project2\\strudents.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-22T22:03:39.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prvi.c",
+              "DocumentMoniker": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\prvi.c",
+              "RelativeDocumentMoniker": "Project2\\prvi.c",
+              "ToolTip": "C:\\Users\\mirta\\OneDrive\\Radna povr\u0161ina\\strukture_lab25\\zad2\\Project2\\prvi.c",
+              "RelativeToolTip": "Project2\\prvi.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-22T22:03:23.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
