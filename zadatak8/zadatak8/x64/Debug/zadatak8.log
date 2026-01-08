@@ -1,0 +1,4 @@
+﻿  zad8.c
+C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak8\zadatak8\zad8.c(73,12): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak8\zadatak8\zad8.c(293,12): warning C4101: 'temp': unreferenced local variable
+  zadatak8.vcxproj -> C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak8\x64\Debug\zadatak8.exe
