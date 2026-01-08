@@ -1,0 +1,3 @@
+﻿  zad9.c
+C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak9\zadatak9\zad9.c(42,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zadatak9.vcxproj -> C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak9\x64\Debug\zadatak9.exe
