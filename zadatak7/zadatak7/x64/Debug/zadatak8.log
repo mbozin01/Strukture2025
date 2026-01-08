@@ -1,0 +1,3 @@
+﻿  zadatak8.c
+C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak8\zadatak8\zadatak8.c(190,3): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  zadatak8.vcxproj -> C:\Users\mirta\OneDrive\Radna površina\strukture_lab25\zadatak8\x64\Debug\zadatak8.exe
