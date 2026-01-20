@@ -1,0 +1,4 @@
+Barcelona,1620000
+Madrid,3223000
+Valencija,790000
+Sevilja,690000
