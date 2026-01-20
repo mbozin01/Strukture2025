@@ -1,0 +1,5 @@
+2022-06-07
+meso 1 2
+kruh 2 4
+mlijeko 6 2
+cola 1 3
